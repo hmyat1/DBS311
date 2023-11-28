@@ -1,0 +1,8 @@
+﻿  application.cpp
+C:\Users\khehr\OneDrive\Desktop\SENECA\SEM3\DBS311\DBSMilestone1\application.cpp(389,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  0 of 121 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DBSMilestone1.vcxproj -> C:\Users\khehr\OneDrive\Desktop\SENECA\SEM3\DBS311\DBSMilestone1\x64\Release\DBSMilestone1.exe
